@@ -21,7 +21,7 @@ public class NurseAdving  implements java.io.Serializable {
     }
 
     /**
-     * @param advingSign 医嘱的标志位（0代表已经执行的医嘱；1代表未执行的医嘱）默认1表示未执行。
+     * @param advingSign 医嘱的标志位（0代表已经执行的医嘱；1代表未执行的医嘱）默认1 表示未执行。
      */
     public NurseAdving(NursePat nursePat, NurseWork nurseWork, NurseAdv nurseAdv, Date advingDate, String advingSign) {
         this.nursePat = nursePat;

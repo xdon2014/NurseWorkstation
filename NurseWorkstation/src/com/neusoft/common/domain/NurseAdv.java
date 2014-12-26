@@ -7,7 +7,7 @@ import java.util.Set;
 
 /**
  * @author Ghost
- * 医嘱信息表对应实体类
+ * 医嘱信息表对 应实体类
  */
 public class NurseAdv  implements java.io.Serializable {
 
