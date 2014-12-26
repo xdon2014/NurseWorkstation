@@ -4,7 +4,8 @@ import java.util.Date;
 
 /**
  * @author Ghost
- * 出院登记表对应实体类
+ * 
+ * 出院登记表对应 实体类
  */
 public class HospitalDischarge  implements java.io.Serializable {
 
