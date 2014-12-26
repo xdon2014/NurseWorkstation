@@ -16,7 +16,7 @@ public class HospitalBedlevel  implements java.io.Serializable {
     }
 
     /**
-     * @param levelPrice MaxValue = 999.99
+     * @param levelPrice MaxValue = 999.999
      */
     public HospitalBedlevel(Double levelPrice) {
         this.levelPrice = levelPrice;
