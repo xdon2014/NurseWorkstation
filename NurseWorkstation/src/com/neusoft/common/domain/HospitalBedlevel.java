@@ -13,6 +13,7 @@ public class HospitalBedlevel  implements java.io.Serializable {
      private Double levelPrice;
      
     public HospitalBedlevel() {
+    	Double levelPrice;
     }
 
     /**
